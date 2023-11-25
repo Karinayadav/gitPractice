@@ -4,8 +4,9 @@ import React from 'react'
 const index = () => {
   return (
     <View>
-      <Text>Fithub</Text>
+      <Text>github</Text>
       <Text>practice</Text>
+      <Text>2</Text>
     </View>
   )
 }
